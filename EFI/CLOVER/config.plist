@@ -169,7 +169,7 @@
 	<key>BootGraphics</key>
 	<dict>
 		<key>UIScale</key>
-		<integer>2</integer>
+		<integer>1</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -306,7 +306,7 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>3840x2160</string>
+		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>SimpleThemeDark</string>
 	</dict>
@@ -315,7 +315,7 @@
 		<key>Inject</key>
 		<dict>
 			<key>ATI</key>
-			<false/>
+			<true/>
 			<key>Intel</key>
 			<false/>
 			<key>NVidia</key>
@@ -324,8 +324,6 @@
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
-		<key>#FakeCPUID</key>
-		<string>0x010676</string>
 		<key>AppleIntelCPUPM</key>
 		<false/>
 		<key>AppleRTC</key>
@@ -435,7 +433,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 	</dict>
-<key>SMBIOS</key>
+	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
 		<string>12/08/2017</string>
