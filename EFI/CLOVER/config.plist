@@ -446,7 +446,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02735902QXJG361H</string>
+		<string>C027106004NJG36AD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -476,9 +476,9 @@
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02V903VHX87</string>
+		<string>C02TDSYAHX87</string>
 		<key>SmUUID</key>
-		<string>F1BDDA06-8A8A-4F7D-AEC9-CA08D2302DD0</string>
+		<string>E6694923-C96C-4DC5-9DF9-CBBF557A6733</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
